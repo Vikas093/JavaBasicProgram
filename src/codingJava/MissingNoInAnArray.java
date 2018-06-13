@@ -20,10 +20,7 @@ public class MissingNoInAnArray
 		}
 		System.out.println("Missing Number is" +"------>" + (expectedSum-actualSum));
 
-
 	}
-
-
 
 	public static void main(String[] args) 
 	{
